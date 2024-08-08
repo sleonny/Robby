@@ -22,6 +22,8 @@ A website for the Annual Robby Invitational Golf Tournament.
 
   ## License
 
+  MIT License
+
   ## Credits
 
   Joshua Robinson
