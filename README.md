@@ -12,33 +12,33 @@ A website for the Annual Robby Invitational Golf Tournament.
 - [Tests](#tests)
 - [Questions](#questions)
 
-  ## Installation
+## Installation
 
-  N/A
+N/A
 
-  ## Usage
+## Usage
 
-  To track signups and provide information and media
+To track signups and provide information and media
 
-  ## License
+## License
 
-  MIT License
+MIT License
 
-  ## Credits
+## Credits
 
-  Tournament Organizer Joshua Robinson
-  Grill Man Quincy Bittenbring
+Tournament Organizer Joshua Robinson  
+Grill Man Quincy Bittenbring
 
-  ## Tests
+## Tests
 
-  N/A
+N/A
 
-  ## How to Contribute
+## How to Contribute
 
-  N/A
+N/A
 
-  ## Questions?
+## Questions?
 
-  Come see me on GitHub @ [sleonny](https://github.com/sleonny);
-  Or
-  Email me @ leonardmsean@gmail.com
+Come see me on GitHub @ [sleonny](https://github.com/sleonny);  
+ Or  
+ Email me @ leonardmsean@gmail.com
