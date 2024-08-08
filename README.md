@@ -1,10 +1,6 @@
 # The Robby Invitational
 
-    ![badge](https://img.shields.io/badge/license-MIT License-brightgreen)
-
-    ## Description
-
-    A website for the Annual Robby Invitational Golf Tournament.
+A website for the Annual Robby Invitational Golf Tournament.
 
 ## Table of Contents
 
@@ -25,11 +21,6 @@
   To track signups and provide information and media
 
   ## License
-
-  ## License
-
-  ![badge](https://img.shields.io/badge/license-MIT License-brightgreen)
-  This application is covered by the MIT License license.
 
   ## Credits
 
