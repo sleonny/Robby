@@ -1,0 +1,19 @@
+{
+  "name": "robby",
+  "version": "1.0.0",
+  "description": "site for robby invitational",
+  "main": "index.js",
+  "scripts": {
+    "test": ""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sleonny/Robby.git"
+  },
+  "author": "Sean Leonard",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sleonny/Robby/issues"
+  },
+  "homepage": "https://github.com/sleonny/Robby#readme"
+}
