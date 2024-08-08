@@ -26,7 +26,8 @@ A website for the Annual Robby Invitational Golf Tournament.
 
   ## Credits
 
-  Joshua Robinson
+  Tournament Organizer Joshua Robinson
+  Grill Man Quincy Bittenbring
 
   ## Tests
 
